@@ -1,0 +1,57 @@
+/* Corps du site */
+body {
+	width:100%;
+	margin:0px;
+}
+
+#imgBody {
+background-color: #6a66d9;
+background-image: url("http://www.transparenttextures.com/patterns/subtle-grey.png");
+}
+
+.accueilImage {
+	display:block;
+	margin: auto;
+	width:476px;
+	height:224px;
+}
+
+#ligne {
+	background-image:url("images/headerbg1.png");list-style : none;
+	height:3px;
+}
+
+body {
+	width: 100%;
+}
+
+#conteneur {
+	width: 100%;
+	border: 2px solid black;
+	background-color: lightgrey;
+	height : auto;
+}
+
+#conteneur3 {
+	text-align: center;
+	width: 100%;
+	border: 2px solid black;
+	background-color: lightgrey;
+	height : auto;
+}
+
+form {
+	width: 100%;
+	text-align: center;
+}
+
+.resultat {
+	text-align: center;
+	width: 100%;
+	border: 2px solid black;
+	background-color: lightgrey;
+	height : auto;
+}
+
+
+/* ----------------------------------- */
